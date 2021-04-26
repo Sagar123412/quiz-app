@@ -1,3 +1,5 @@
+This is a complete quiz app using react.js and material ui. I have used Trivia api to get data about questions and answers. you can take a look at: https://inspiring-wing-6cfb9f.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
